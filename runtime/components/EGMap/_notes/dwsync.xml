@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="EGMapBase.php" server="185.10.200.91//web/" local="130712703355359647" remote="130710115800000000" Dst="1" />
+<file name="EGMapApiKeyList.php" server="185.10.200.91//web/" local="130712703355409635" remote="130710115800000000" Dst="1" />
+<file name="EGMap.php" server="185.10.200.91//web/" local="130712703355659663" remote="130710115800000000" Dst="1" />
+<file name="EGMapBounds.php" server="185.10.200.91//web/" local="130712703357560967" remote="130710115800000000" Dst="1" />
+<file name="EGMapCircle.php" server="185.10.200.91//web/" local="130712703357610985" remote="130710115800000000" Dst="1" />
+<file name="EGMapClient.php" server="185.10.200.91//web/" local="130712703357810970" remote="130710115800000000" Dst="1" />
+<file name="EGMapControlPosition.php" server="185.10.200.91//web/" local="130712703359460960" remote="130710115800000000" Dst="1" />
+<file name="EGMapCoord.php" server="185.10.200.91//web/" local="130712703359560953" remote="130710115800000000" Dst="1" />
+<file name="EGMapDirection.php" server="185.10.200.91//web/" local="130712703359660950" remote="130710115800000000" Dst="1" />
+<file name="EGMapDirectionRenderer.php" server="185.10.200.91//web/" local="130712703361410967" remote="130710115800000000" Dst="1" />
+<file name="EGMapDirectionWayPoint.php" server="185.10.200.91//web/" local="130712703361460976" remote="130710115800000000" Dst="1" />
+<file name="EGMapElevationInfo.php" server="185.10.200.91//web/" local="130712703361510979" remote="130710115800000000" Dst="1" />
+<file name="EGMapEvent.php" server="185.10.200.91//web/" local="130712703363260957" remote="130710115800000000" Dst="1" />
+<file name="EGMapGeocodeTool.php" server="185.10.200.91//web/" local="130712703363360960" remote="130710115800000000" Dst="1" />
+<file name="EGMapGeocodedAddress.php" server="185.10.200.91//web/" local="130712703363460976" remote="130710115800000000" Dst="1" />
+<file name="EGMapInfoBox.php" server="185.10.200.91//web/" local="130712703365610963" remote="130710115800000000" Dst="1" />
+<file name="EGMapInfoWindow.php" server="185.10.200.91//web/" local="130712703365660987" remote="130710115800000000" Dst="1" />
+<file name="EGMapKMLService.php" server="185.10.200.91//web/" local="130712703365710985" remote="130710115800000000" Dst="1" />
+<file name="EGMapKeyDragZoom.php" server="185.10.200.91//web/" local="130712703367661999" remote="130710115800000000" Dst="1" />
+<file name="EGMapLatLonControl.php" server="185.10.200.91//web/" local="130712703367712135" remote="130710115800000000" Dst="1" />
+<file name="EGMapMarker.php" server="185.10.200.91//web/" local="130712703367912002" remote="130710115800000000" Dst="1" />
+<file name="EGMapMarkerClusterer.php" server="185.10.200.91//web/" local="130712703369662019" remote="130710115800000000" Dst="1" />
+<file name="EGMapMarkerImage.php" server="185.10.200.91//web/" local="130712703369762027" remote="130710115800000000" Dst="1" />
+<file name="EGMapMarkerWithLabel.php" server="185.10.200.91//web/" local="130712703369812025" remote="130710115800000000" Dst="1" />
+<file name="EGMapPoint.php" server="185.10.200.91//web/" local="130712703371662001" remote="130710115800000000" Dst="1" />
+<file name="EGMapPolygon.php" server="185.10.200.91//web/" local="130712703371762027" remote="130710115800000000" Dst="1" />
+<file name="EGMapPolylineEncoder.php" server="185.10.200.91//web/" local="130712703371812006" remote="130710115800000000" Dst="1" />
+<file name="EGMapRectangle.php" server="185.10.200.91//web/" local="130712703373862006" remote="130710115800000000" Dst="1" />
+<file name="EGMapSize.php" server="185.10.200.91//web/" local="130712703373912009" remote="130710115800000000" Dst="1" />
+</dwsync>

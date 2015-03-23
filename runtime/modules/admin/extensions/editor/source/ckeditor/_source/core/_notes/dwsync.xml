@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="_bootstrap.js" server="185.10.200.91//web/" local="130712703783039505" remote="130710117000000000" Dst="1" />
+<file name="ajax.js" server="185.10.200.91//web/" local="130712703785039501" remote="130710117000000000" Dst="1" />
+<file name="ckeditor.js" server="185.10.200.91//web/" local="130712703785039501" remote="130710117000000000" Dst="1" />
+<file name="ckeditor_base.js" server="185.10.200.91//web/" local="130712703785089500" remote="130710117000000000" Dst="1" />
+<file name="ckeditor_basic.js" server="185.10.200.91//web/" local="130712703786989537" remote="130710117000000000" Dst="1" />
+<file name="command.js" server="185.10.200.91//web/" local="130712703787039487" remote="130710117000000000" Dst="1" />
+<file name="commanddefinition.js" server="185.10.200.91//web/" local="130712703787089491" remote="130710117000000000" Dst="1" />
+<file name="config.js" server="185.10.200.91//web/" local="130712703788991137" remote="130710117000000000" Dst="1" />
+<file name="dataprocessor.js" server="185.10.200.91//web/" local="130712703788991137" remote="130710117000000000" Dst="1" />
+<file name="dom.js" server="185.10.200.91//web/" local="130712703798291154" remote="130710117000000000" Dst="1" />
+<file name="dtd.js" server="185.10.200.91//web/" local="130712703800191177" remote="130710117000000000" Dst="1" />
+<file name="editor.js" server="185.10.200.91//web/" local="130712703800291155" remote="130710117000000000" Dst="1" />
+<file name="editor_basic.js" server="185.10.200.91//web/" local="130712703800291155" remote="130710117000000000" Dst="1" />
+<file name="env.js" server="185.10.200.91//web/" local="130712703802091175" remote="130710117000000000" Dst="1" />
+<file name="event.js" server="185.10.200.91//web/" local="130712703802141189" remote="130710117000000000" Dst="1" />
+<file name="eventInfo.js" server="185.10.200.91//web/" local="130712703802141189" remote="130710117000000000" Dst="1" />
+<file name="focusmanager.js" server="185.10.200.91//web/" local="130712703803991169" remote="130710117000000000" Dst="1" />
+<file name="htmlparser.js" server="185.10.200.91//web/" local="130712703818085813" remote="130710117000000000" Dst="1" />
+<file name="plugindefinition.js" server="185.10.200.91//web/" local="130712703819875914" remote="130710117000000000" Dst="1" />
+<file name="loader.js" server="185.10.200.91//web/" local="130712703820035927" remote="130710117000000000" Dst="1" />
+<file name="lang.js" server="185.10.200.91//web/" local="130712703820045925" remote="130710117000000000" Dst="1" />
+<file name="plugins.js" server="185.10.200.91//web/" local="130712703822046058" remote="130710117000000000" Dst="1" />
+<file name="resourcemanager.js" server="185.10.200.91//web/" local="130712703822106044" remote="130710117000000000" Dst="1" />
+<file name="scriptloader.js" server="185.10.200.91//web/" local="130712703822206056" remote="130710117000000000" Dst="1" />
+<file name="skins.js" server="185.10.200.91//web/" local="130712703823986150" remote="130710117000000000" Dst="1" />
+<file name="themes.js" server="185.10.200.91//web/" local="130712703823996153" remote="130710117000000000" Dst="1" />
+<file name="tools.js" server="185.10.200.91//web/" local="130712703824276188" remote="130710117000000000" Dst="1" />
+<file name="xml.js" server="185.10.200.91//web/" local="130712703825957580" remote="130710117000000000" Dst="1" />
+<file name="ui.js" server="185.10.200.91//web/" local="130712703825957580" remote="130710117000000000" Dst="1" />
+</dwsync>
